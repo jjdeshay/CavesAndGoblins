@@ -54,12 +54,12 @@ When entering a new nightmare, follow these steps in order:
 4. **Loot:**  
    After the last monster falls, immediately roll for loot. Players can then use any gained loot during the remainder of the nightmare. At the end of combat in each room, each player rolls a d6 and consults Loot Table A or B. The chance to roll on Loot Table B increases as they progress through the rooms, as shown in the table below:
 
-   | Nightmare Completed | D6 Result to Roll on Table B |
+   | Nightmare Completed | Table A | Table B |
    | ------------------- | ---------------------------- |
-   | Nightmare 1         | 6                            |
-   | Nightmare 2         | 5-6                          |
-   | Nightmare 3         | 4-6                          |
-   | Nightmare 4         | 3-6                          |
+   | Nightmare 1         | 1-5 | 6                            |
+   | Nightmare 2         | 1-4 | 5-6                          |
+   | Nightmare 3         | 1-3 | 4-6                          |
+   | Nightmare 4         | 1-2 | 3-6                          |
 
 5. **Interact with the Scene:**  
    Some rooms allow characters to interact with their environment for potential buffs. However, failing these checks can result in damage, so consider healing before attempting risky actions.
